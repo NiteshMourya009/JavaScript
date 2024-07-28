@@ -1,4 +1,4 @@
-// passing a Function as an Argument in Other Funnction is called Callback.
+// passing a Function as an Argumentgit  in Other Funnction is called Callback.
 function square(n){
     return n*n ;
 }
